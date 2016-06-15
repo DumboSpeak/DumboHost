@@ -18,8 +18,8 @@ namespace Dumbo
 
         public DictionaryLoader()
         {
-            RootPath = @"C:\Users\evan\modules\voicecode\dictionary\";
-            StartSettingsPath = @"C:\Users\evan\modules\voicecode\settings.json";
+            RootPath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\dictionary\";
+            StartSettingsPath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\settings.json";
 
             Dictionaries = new List<Dict>();
         }
