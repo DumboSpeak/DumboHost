@@ -1,0 +1,16 @@
+C:\Users\evan\modules\net\Dumbo\Dumbo\bin\Debug\Dumbo.exe.config
+C:\Users\evan\modules\net\Dumbo\Dumbo\obj\Debug\Dumbo.csprojResolveAssemblyReference.cache
+C:\Users\evan\modules\net\Dumbo\Dumbo\bin\Debug\Dumbo.exe
+C:\Users\evan\modules\net\Dumbo\Dumbo\bin\Debug\Dumbo.pdb
+C:\Users\evan\modules\net\Dumbo\Dumbo\obj\Debug\Dumbo.exe
+C:\Users\evan\modules\net\Dumbo\Dumbo\obj\Debug\Dumbo.pdb
+C:\Users\evan\modules\net\Dumbo\Dumbo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evan\modules\net\Dumbo\Dumbo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\bin\Debug\Dumbo.exe.config
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\obj\Debug\Dumbo.exe
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\obj\Debug\Dumbo.pdb
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\bin\Debug\Dumbo.exe
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\bin\Debug\Dumbo.pdb
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evan\modules\voicecode\Dumbo\Dumbo\obj\Debug\Dumbo.csprojResolveAssemblyReference.cache
