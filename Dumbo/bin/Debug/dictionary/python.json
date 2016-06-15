@@ -1,0 +1,24 @@
+{
+    "Scopes": {
+        "language": "python"
+    },
+
+
+    "Commands": {
+        "new set": "set(){left}",
+        "new dictionary": "{{}}{left}",
+        "new function": "def ():{left}{left}{left}",
+        "new class": "class :{left}",
+
+        "speak": "print(){left}",
+        "condition": "if :{left}",
+        "crunk path": "path",
+        "crunk os": "os",
+        "crunk time": "time",
+        "crunk split": "split",
+        "crunk join": "join",
+        "crunk dunder": "____{left}{left}",
+        "for loop": "for  in:{left}{left}{left}{left}",
+        "for enumerate": "for i, {ctrl+alt+8} in enumerate({ctrl+v}):{ctrl+alt+9}"
+    }
+}

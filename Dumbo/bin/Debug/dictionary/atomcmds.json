@@ -1,0 +1,48 @@
+{
+    "Scopes": {
+
+    },
+
+    "Commands": {
+        "join lines": "{ctrl+j}",
+        "toggle comment": "{ctrl+/}",
+        "select": "",
+        "delete": "",
+        "copy": "",
+        "grab": "",
+        "until": "",
+        "after": "",
+        "before": "",
+        "fuzzy": "{ctrl+t}",
+        "save buffer": "{ctrl+s}",
+        "new buffer": "{ctrl+shift+q}",
+        "close buffer": "{ctrl+w}",
+        "halt": "",
+        "module": "",
+        "drop": "{ctrl+enter}",
+        "climb": "{ctrl+shift+enter}",
+        "new scope": "",
+        "east": "",
+        "west": ""
+    },
+
+    "NumberedCommands": {
+        "undo": "{ctrl+z}",
+        "redo": "{ctrl+y}",
+        "up": "{up}",
+        "left": "{left}",
+        "down": "{down}",
+        "right": "{right}",
+        "spark": "",
+        "word": "",
+        "indent": "{ctrl+]}",
+        "outdent": "{ctrl+[}",
+        "buffer left": "{ctrl+alt+4}",
+        "buffer right": "{ctrl+alt+5}",
+        "duplicate line": "{ctrl+shift+d}",
+        "flip down": "{ctrl+down}",
+        "flip up": "{ctrl+up}"
+
+    }
+
+}

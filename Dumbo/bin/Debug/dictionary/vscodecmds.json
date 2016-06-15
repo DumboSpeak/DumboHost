@@ -1,0 +1,56 @@
+{
+    "Scopes": {
+
+    },
+
+    "Commands": {
+        "join lines": "{ctrl+j}",
+        "toggle comment": "{ctrl+/}",
+        "clear select": "{ctrl+alt+3}",
+        "select": "",
+        "delete": "",
+        "copy": "",
+        "grab": "",
+        "until": "",
+        "after": "",
+        "before": "",
+        "fuzzy": "{ctrl+p}",
+        "save buffer": "{ctrl+s}",
+        "new buffer": "{ctrl+n}",
+        "close buffer": "{ctrl+w}",
+        "halt": "",
+        "module": "",
+        "custom save": "{ctrl+alt+shift+s}{right}",
+        "drop": "{ctrl+enter}",
+        "climb": "{ctrl+shift+enter}",
+        "new scope": "",
+        "east": "",
+        "west": "",
+        "search": "{ctrl+f}",
+        "replace": "{ctrl+h}",
+        "duplicate": "{shift+alt+down}{back}",
+        "scope": "{{}}{left}{enter}",
+        "jump north": "{alt+up}",
+        "jump south": "{alt+down}"
+    },
+
+    "NumberedCommands": {
+        "redo": "{ctrl+y}",
+        "up": "{left}",
+        "left": "{left}",
+        "down": "{left}",
+        "right": "{left}",
+        "spark": "",
+        "word": "",
+        "indent": "{ctrl+]}",
+        "outdent": "{ctrl+[}",
+        "buffer left": "{ctrl+alt+4}",
+        "undo": "{ctrl+z}",
+        "buffer right": "{ctrl+alt+5}",
+        "duplicate line": "{ctrl+shift+d}",
+        "flip down": "{ctrl+down}",
+        "flip up": "{ctrl+up}"
+
+    }
+
+}

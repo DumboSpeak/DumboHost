@@ -1,0 +1,10 @@
+{
+    "EnableKeyword": "enable",
+    "DisableKeyword": "disable",
+    "Scopes": {
+        "language": {
+            "Current": "python",
+            "Options": ["python", "javascript"]
+        }
+    }
+}

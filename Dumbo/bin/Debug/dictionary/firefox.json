@@ -1,0 +1,25 @@
+{
+    "Scopes": {
+
+    },
+
+    "Commands": {
+        "refresh": "{f5}",
+        "close buffer": "d",
+        "page back": "H",
+        "page forward": "L",
+        "navigate": "{esc}{ctrl+l}",
+        "go to hacker news": "{esc}{ctrl+l}http://news.ycombinator.com{enter}",
+        "go to google news": "{esc}{ctrl+l}http://news.google.com{enter}",
+        "go to reddit": "{esc}{ctrl+l}http://reddit.com{enter}",
+        "go to meet up": "{esc}{ctrl+l}http://meetup.com{enter}",
+        "go to something awful": "{esc}{ctrl+l}http://forums.somethingawful.com{enter}"
+    },
+
+    "NumberedCommands": {
+        "buffer left": "gT",
+        "buffer right": "gt",
+        "up": "{ctrl+b}"
+    }
+
+}
