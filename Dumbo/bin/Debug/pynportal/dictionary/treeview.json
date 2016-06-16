@@ -1,0 +1,20 @@
+{
+    "Scopes": {
+    },
+
+    "Commands": {
+        "tree focus": "{ctrl+alt+6}",
+        "tree move": "m",
+        "tree duplicate": "d",
+        "tree delete": "{del}",
+        "tree file": "a",
+        "tree folder": "{shift+a}"
+    },
+
+    "NumberedCommands": {
+        "tree up": "{up}",
+        "tree right": "{right}",
+        "tree down": "{down}",
+        "tree left": "{left}"
+    }
+}

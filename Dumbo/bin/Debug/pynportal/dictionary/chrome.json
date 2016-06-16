@@ -1,0 +1,11 @@
+{
+    "Scopes": {
+
+    },
+
+    "Commands": {
+        "refresh": "{f5}",
+        "debug tools": "{f12}"
+    }
+
+}

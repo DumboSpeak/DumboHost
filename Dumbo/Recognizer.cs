@@ -6,6 +6,7 @@ using System.Speech.Recognition;
 using System.Threading;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Dumbo
 {
@@ -112,6 +113,12 @@ namespace Dumbo
             {
                 ReloadGrammars(splitwords);
             }
+            var portalPath = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + @"\pynportal\";
+            var files = Directory.GetFiles(portalPath);
+            int fCount = 1;
+            System.IO.File.WriteAllText(portalPath + "temp", e.Result.Text);
+            while (File.Exists(portalPath + "o" + fCount)) fCount++;
+            System.IO.File.Move(portalPath + "temp", portalPath + "o" + fCount);
             Console.Out.WriteLineAsync(e.Result.Text);
         }
 

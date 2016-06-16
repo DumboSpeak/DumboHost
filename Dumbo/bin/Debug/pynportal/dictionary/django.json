@@ -1,0 +1,9 @@
+{
+    "Commands": {
+        "django import models": "from django.db import models",
+        "django import user": "from django.contrib.auth.models import User",
+        "django new model": "class {ctrl+alt+8}(models.Model):{ctrl+alt+9}",
+        "django model": "models.Model",
+        "django foreign key": "models.ForeignKey(){left}"
+    }
+}
